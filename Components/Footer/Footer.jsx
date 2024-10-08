@@ -34,23 +34,23 @@ export default function Footerhome() {
 
             <ul className='list-unstyled'>
               <li>
-                <a href='https://www.facebook.com/dhruve.kiyawat' className='text-dark'>
+                <a href='https://www.facebook.com/' className='text-dark'>
                   Facebook
               
                 </a>
               </li>
               <li>
-                <a href='https://www.instagram.com/dhruv_kiyawat/' className='text-dark'>
+                <a href='https://www.instagram.com' className='text-dark'>
                   Instagram
                 </a>
               </li>
               <li>
-                <a href='https://www.linkedin.com/in/dhruve-kiyawat-548947222' className='text-dark'>
+                <a href='https://www.linkedin.com' className='text-dark'>
                   LinkedIn
                 </a>
               </li>
               <li>
-                <a href='https://twitter.com/DhruveKiyawat?t=3N-8gx5U-0QjNgXBjadNkg&s=09' className='text-dark'>
+                <a href='https://x.com/_kunal_khare_' className='text-dark'>
                   Twitter
                 </a>
               </li>
